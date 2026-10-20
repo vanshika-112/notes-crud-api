@@ -69,7 +69,7 @@ MONGO_URI=your_mongodb_connection_string
 
 Replace your_mongodb_connection_string with your actual MongoDB connection string.
 
-### 4. Start the server
+### 5. Start the server
 
 ```bash
 npm start
