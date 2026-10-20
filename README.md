@@ -24,7 +24,7 @@ Each note contains a title and a description, which are stored in a MongoDB data
 ## Project Structure
 
 ```text
-learning-backend/
+notes-api/
 ├── node_modules/
 ├── src/
 │   ├── db/
@@ -43,13 +43,13 @@ learning-backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vanshika-112/first-practice-backend-project.git
+git clone https://github.com/vanshika-112/notes-crud-api.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd learning-backend
+cd notes-api
 ```
 
 ### 3. Install dependencies
