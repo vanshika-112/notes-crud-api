@@ -58,6 +58,17 @@ cd notes-api
 npm install
 ```
 
+### 4. Configure environment variables
+
+Create a .env file in the root directory and add your MongoDB connection string and server port.
+
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+```
+
+Replace your_mongodb_connection_string with your actual MongoDB connection string.
+
 ### 4. Start the server
 
 ```bash
